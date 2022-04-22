@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Lucas Souza 👋
 
 - 🔭 Sou estudante de Analise e Desenvolvimento de Sistemas desde Setembro de 2020.
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript
+- 🌱 Atualmente estou estudando Java,NodeJS, Angular.
 - 📫 Contato: lucasdeveloper3@gmail.com
 
  <div>
